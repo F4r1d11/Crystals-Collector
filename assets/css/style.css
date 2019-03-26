@@ -1,0 +1,81 @@
+
+#Collector{
+  background: rgb(0, 13, 128);
+  width: 300px;
+  height: 60px;
+text-align: center;
+font-size: 30px;
+font-style: bold;
+color: white;
+padding: 15px;
+}
+
+#randomN{
+  position: absolute;
+  top: 120px;
+  left: -30px;
+  width: 250px;
+  height: 80px;
+font-size: 30px;
+text-align: center;
+font-style: bold;
+color: rgb(8, 0, 0);
+padding: 27px;
+}
+#randomR{
+  position: absolute;
+  top: 120px;
+  left: 225px;
+  background: rgb(72, 35, 236);
+  width: 80px;
+  height: 80px;
+font-size: 30px;
+text-align: center;
+font-style: bold;
+color: white;
+padding: 15px;
+}
+
+.crystalContainer{
+  position: absolute;
+  top: 260px;
+  align-items: center;
+}
+.crystal{
+  float: left;
+  margin-left: 30px;
+  height:80px;
+  width: 80px;
+}
+
+#sum {
+position: absolute;
+top: 360px;
+font-size: 20px;
+text-align: center;
+font-style: bold;
+color: rgb(8, 0, 0);
+}
+
+#win {
+
+  position: absolute;
+  top: 380px;
+  font-size: 20px;
+text-align: center;
+font-style: bold;
+color: rgb(8, 0, 0);
+  }
+  #lost {
+
+    position: absolute;
+    top: 400px;
+    font-size: 20px;
+text-align: center;
+font-style: bold;
+color: rgb(8, 0, 0);
+    }
+
+    img {
+width: 100px;
+    }
